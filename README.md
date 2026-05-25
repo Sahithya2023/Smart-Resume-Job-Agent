@@ -1,13 +1,36 @@
 # 🤖 AI Placement Agent
 
-An AI-powered system to analyze resumes, recommend jobs, and track applications.
+An intelligent AI-powered system that helps students optimize resumes, discover job opportunities, and track applications efficiently.
+
+---
 
 ## 🚀 Features
-- Resume ATS Score
-- Job Recommendations
-- Applied Jobs Tracker
-- AI Resume Tailoring
 
-## ▶️ Run
-pip install -r requirements.txt  
-streamlit run app.py
+- 📄 **ATS Resume Analyzer**
+  - Calculates ATS score
+  - Identifies missing keywords
+
+- 🔎 **Job Recommendation System**
+  - Fetches real-time job listings
+  - Provides direct apply links
+
+- 💾 **Applied Jobs Tracker**
+  - Save and manage applied jobs
+  - Persistent storage using SQLite
+
+- ✨ **AI Resume Tailoring**
+  - Enhances resume based on job description
+  - Improves keyword matching
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Streamlit  
+- **Backend:** Python  
+- **Database:** SQLite  
+- **AI/NLP:** Custom keyword extraction + LLM integration  
+
+---
+
+## 📂 Project Structure
