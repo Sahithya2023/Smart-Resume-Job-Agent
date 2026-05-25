@@ -1,4 +1,4 @@
-# 🤖 AI Placement Agent
+# 🤖 Smart-Resume-Job-Agent
 
 An intelligent AI-powered system that helps students optimize resumes, discover job opportunities, and track applications efficiently.
 
