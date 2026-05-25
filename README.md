@@ -34,3 +34,23 @@ An intelligent AI-powered system that helps students optimize resumes, discover 
 ---
 
 ## 📂 Project Structure
+ai-placement-agent/
+│── app.py
+│── utils/
+│ ├── parser.py
+│ ├── keywords.py
+│ ├── ats.py
+│ ├── llm.py
+│ ├── jobs.py
+│ ├── db.py
+│── requirements.txt
+│── README.md
+
+
+---
+
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
